@@ -1,0 +1,74 @@
+body{
+    height: 100vh;
+    background: linear-gradient(to bottom right, #DD5E89, #F7BB97);background-repeat: no-repeat;"
+}
+
+#card{
+    position: relative;
+    margin: auto;
+    top: 5px;
+    background-color: aliceblue;
+    width: 360px;
+    height: 670px;
+    border-radius: 5px;
+}
+
+h1:first-child{
+    padding-top: 5px;
+    font-size: 18px;
+    text-align: center;
+}
+
+hr{
+    position: relative;
+    top: -5px;
+}
+
+h2{
+    font-size: 17px;
+    top: -10px;
+    margin-bottom: 10px;
+}
+
+main{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+main p{
+    font-size: 13px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+main p {
+    font-weight: bold;    
+}
+
+ul{
+    margin: 0px;
+    list-style-type: none;
+}
+
+li p{
+    display: inline-block;
+    position: relative;
+    top: -40px;
+    left: 70px;
+    font-size: 30px;
+    text-shadow: 1px 1px 20px yellow;
+}
+
+li img{
+    width: 100px;
+    height: 100px;
+}
+
+#myself{
+    display: flex;
+    justify-content: space-around;
+}
+
+#call{
+    margin-top: 0px;
+}
